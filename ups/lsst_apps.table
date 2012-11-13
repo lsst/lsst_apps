@@ -1,0 +1,6 @@
+setupRequired(lsst_libs)
+setupRequired(meas_deblender)
+setupRequired(pipe_tasks)
+setupRequired(obs_lsstSim)
+setupRequired(obs_sdss)
+setupRequired(obs_cfht)
