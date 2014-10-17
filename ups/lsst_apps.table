@@ -1,5 +1,6 @@
 setupRequired(lsst_libs)
 setupRequired(meas_deblender)
+setupRequired(meas_modelfit)
 setupRequired(pipe_tasks)
 setupRequired(obs_lsstSim)
 setupRequired(obs_sdss)
