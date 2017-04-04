@@ -1,6 +1,5 @@
 setupRequired(meas_deblender)
-# temporarily disable meas_modelfit until pybind11 wrapped
-#setupRequired(meas_modelfit)
+setupRequired(meas_modelfit)
 setupRequired(pipe_tasks)
 setupRequired(obs_lsstSim)
 setupRequired(obs_sdss)
