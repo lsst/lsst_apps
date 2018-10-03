@@ -1,6 +1,7 @@
 setupRequired(meas_deblender)
 setupRequired(meas_modelfit)
 setupRequired(pipe_tasks)
+setupRequired(ap_pipe)
 setupRequired(obs_lsstSim)
 setupRequired(obs_sdss)
 setupRequired(obs_test)
