@@ -2,3 +2,4 @@
 config.log
 python/lsst/lsst/*/version.py
 ups/*.cfgc
+*.pyc
