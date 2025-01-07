@@ -1,5 +1,8 @@
+_build*
+python/
 .scon*
 config.log
 python/lsst/lsst/*/version.py
 ups/*.cfgc
 *.pyc
+python/*.dist-info/
